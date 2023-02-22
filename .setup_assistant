@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: my_robot_description
+    relative_path: urdf/robot_arm_shape.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/my_first_robot_arm.srdf
+  CONFIG:
+    author_name: ahmedf
+    author_email: st20204299@outlook.cardiffmet.ac.uk
+    generated_timestamp: 1677087164
